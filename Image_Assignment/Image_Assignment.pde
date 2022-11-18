@@ -24,7 +24,7 @@ void setup()
   backgroundImageY = appHeight*0;
   backgroundImageWidth = appWidth-1;
   backgroundImageHeight = appHeight-1;
-  topX = appWidth * 1/4;
+  topX = appWidth * 1/8;
   topY = appHeight * 1/20;
   topWidth = appWidth * 1/2;
   topHeight = appHeight * 13/20;
